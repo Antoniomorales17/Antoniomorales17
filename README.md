@@ -1,7 +1,4 @@
 
-<!--
-**Antoniomorales17/Antoniomorales17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hola mundo! 🌎
 ¡Hola! Soy Antonio Morales y me apasiona el desarrollo web. Me considero un programador junior capaz de hacer cosas increibles! 
 
@@ -24,3 +21,4 @@ Aplicación encargada de contestar los tickets y email de las empresas mediante 
 ## Contacto 📩
 Puedes contactarme en [antoniomora.gimenez@gmail.com](mailto:antoniomora.gimenez@gmail.com) o visitar mi perfil de [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/antonio-morales-gim%C3%A9nez-840034137/)
  y [![Git](https://img.icons8.com/color/48/000000/git.png)](https://github.com/AntonioMorales17).
+ 
