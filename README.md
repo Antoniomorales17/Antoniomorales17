@@ -16,8 +16,9 @@ Aplicación encargada de contestar y gestionar los tickets de las empresas media
 
 ## Nuevo Portfolio 🍬
 Pagina personal donde me podras conocer un poco más. En constante construcción y progreso!🌳
-[Portfolio](https://github.com/4GeeksAcademy/PortfolioPersonal)
-https://antoniomorales.vercel.app/
+
+[Portfolio](https://github.com/4GeeksAcademy/PortfolioPersonal)🤗
+https://antoniomorales.vercel.app/💻
 
 
 ![Texto alternativo](https://i.imgur.com/xSf9PMo.png)
