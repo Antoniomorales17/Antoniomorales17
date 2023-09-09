@@ -17,7 +17,8 @@ Aplicación encargada de contestar y gestionar los tickets de las empresas media
 ## Nuevo Portfolio 🍬
 Pagina personal donde me podras conocer un poco más. En constante construcción y progreso!🌳
 https://antoniomorales.vercel.app/
-![Portfolio](https://imgur.com/a/UteMDLj)
+![Texto alternativo](https://imgur.com/xSf9PMo)
+
 
 
 ## Tecnologías 🌠
