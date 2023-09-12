@@ -1,5 +1,3 @@
-[![Estrellas](https://img.shields.io/github/stars/Antoniomorales17/WizzMail?style=social)](https://github.com/Antoniomorales17/WizzMail)
-
 
 # Hola mundo! 🌎
 ¡Hola! Soy Antonio Morales y me apasiona el desarrollo web. Me considero un programador junior capaz de hacer cosas increibles! 
