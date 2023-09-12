@@ -1,4 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/Antoniomorales17/WizzMail?style=social)
+
 
 # Hola mundo! 🌎
 ¡Hola! Soy Antonio Morales y me apasiona el desarrollo web. Me considero un programador junior capaz de hacer cosas increibles! 
@@ -36,4 +36,9 @@ https://antoniomorales.vercel.app/💻
 ## Contacto 📩
 Puedes contactarme en [antoniomora.gimenez@gmail.com](mailto:antoniomora.gimenez@gmail.com) o visitar mi perfil de [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/antonio-morales-gim%C3%A9nez-840034137/)
  y [![Git](https://img.icons8.com/color/48/000000/git.png)](https://github.com/AntonioMorales17).
+
+ ## Estadísticas del Repositorio
+
+[![Estadísticas del Repositorio](https://github-readme-stats.vercel.app/api?username=Antoniomorales17&show_icons=true&theme=dark)](https://github.com/Antoniomorales17)
+
  
