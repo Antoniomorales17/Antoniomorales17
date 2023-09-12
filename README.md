@@ -24,6 +24,13 @@ https://antoniomorales.vercel.app/💻
 
 ![Texto alternativo](https://i.imgur.com/xSf9PMo.png)
 
+## Tecnologías Utilizadas 🌠
+
+- **Python**: Utilizado en el backend de mis aplicaciones web.
+- **JavaScript**: Usado para la lógica del cliente y la interactividad en el frontend.
+- **React**: Framework utilizado para crear interfaces de usuario dinámicas en mis proyectos.
+- **HTML5 y CSS3**: Estándares web para estructura y diseño de páginas.
+- **SQL**: Lenguaje de consultas utilizado para gestionar bases de datos.
 
 
 ## Tecnologías 🌠
@@ -37,7 +44,7 @@ https://antoniomorales.vercel.app/💻
 Puedes contactarme en [antoniomora.gimenez@gmail.com](mailto:antoniomora.gimenez@gmail.com) o visitar mi perfil de [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/antonio-morales-gim%C3%A9nez-840034137/)
  y [![Git](https://img.icons8.com/color/48/000000/git.png)](https://github.com/AntonioMorales17).
 
- ## Estadísticas del Repositorio
+ ## Estadísticas
 
 [![Estadísticas del Repositorio](https://github-readme-stats.vercel.app/api?username=Antoniomorales17&show_icons=true&theme=dark)](https://github.com/Antoniomorales17)
 
