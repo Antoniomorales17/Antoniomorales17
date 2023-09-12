@@ -1,3 +1,4 @@
+[![Estrellas](https://img.shields.io/github/stars/Antoniomorales17/WizzMail?style=social)](https://github.com/Antoniomorales17/WizzMail)
 
 
 # Hola mundo! 🌎
@@ -24,13 +25,6 @@ https://antoniomorales.vercel.app/💻
 
 ![Texto alternativo](https://i.imgur.com/xSf9PMo.png)
 
-## Tecnologías Utilizadas 🌠
-
-- **Python**: Utilizado en el backend de mis aplicaciones web.
-- **JavaScript**: Usado para la lógica del cliente y la interactividad en el frontend.
-- **React**: Framework utilizado para crear interfaces de usuario dinámicas en mis proyectos.
-- **HTML5 y CSS3**: Estándares web para estructura y diseño de páginas.
-- **SQL**: Lenguaje de consultas utilizado para gestionar bases de datos.
 
 
 ## Tecnologías 🌠
