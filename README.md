@@ -1,6 +1,6 @@
 
 # Hola mundo! 🌎
-¡Hola! Soy Antonio Morales y me apasiona el desarrollo web. Me considero un programador junior capaz de hacer cosas increibles! 
+¡Hola! Soy Antonio Morales y me apasiona el desarrollo web. Me considero un programador capaz de hacer cosas increibles! 
 
 # Quien soy 🧐
 Me considero una persona que se atreve a nuevos desafios, aprender algo nuevo siempre es una satisfaccion. Atento a las nuevas tendencias tecnológicas, amante del marketing, comercio electrónico y el desarrollo web!🌈
