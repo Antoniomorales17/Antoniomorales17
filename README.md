@@ -15,7 +15,7 @@ Aplicación encargada de contestar y gestionar los tickets de las empresas media
 - Además de utilizar la API de OpenIA para sincronizar los mensajes y la contestación en vivo de los correos.
 
 ## [QuizzVideoGames](https://github.com/Antoniomorales17/QuizGames) 🎮
-![Captura de Pantalla 1](https://i.imgur.com/7PrZLC6.png)
+![Captura de Pantalla 1](https://i.imgur.com/pACVRhe.png)
 
 Aplicación de cuestionario de videojuegos con un estilo retro, desarrollada en React. ¡Demuestra tus conocimientos sobre los videojuegos clásicos y diviértete!🎮
 
