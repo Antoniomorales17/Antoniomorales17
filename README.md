@@ -32,7 +32,7 @@ Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-i
 Pagina personal donde me podras conocer un poco más. En constante construcción y progreso!🌳
 
 [Portfolio](https://github.com/4GeeksAcademy/PortfolioPersonal)🤗
-[aquí](https://antoniomorales.vercel.app/)💻
+[Ver demo](https://antoniomorales.vercel.app/)💻
 
 
 ![Texto alternativo](https://i.imgur.com/xSf9PMo.png)
