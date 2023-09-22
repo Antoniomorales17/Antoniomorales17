@@ -31,8 +31,8 @@ Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-i
 ## Nuevo Portfolio 🍬
 Pagina personal donde me podras conocer un poco más. En constante construcción y progreso!🌳
 
-[Portfolio](https://github.com/4GeeksAcademy/PortfolioPersonal)🤗
-[Ver demo](https://antoniomorales.vercel.app/)💻
+[Portfolio](https://github.com/Antoniomorales17/PortfolioMe)🤗
+[Ver demo](https://antoniomoralesgimenez.vercel.app/)💻
 
 
 ![Texto alternativo](https://i.imgur.com/xSf9PMo.png)
