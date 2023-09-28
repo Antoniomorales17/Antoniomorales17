@@ -20,7 +20,7 @@ Aplicación encargada de contestar y gestionar los tickets de las empresas media
 [Ver demo](https://nonostore.vercel.app/)💻
 
 ## [QuizzVideoGames](https://github.com/Antoniomorales17/QuizGames) 🎮
-![Captura de Pantalla 1](https://i.imgur.com/pACVRhe.png)
+![Captura de Pantalla 1](https://i.imgur.com/UBYz2Cn.png)
 
 Aplicación de cuestionario de videojuegos con un estilo retro, desarrollada en React. ¡Demuestra tus conocimientos sobre los videojuegos clásicos y diviértete!🎮
 Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-indol-nine.vercel.app/) 👀
