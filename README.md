@@ -14,7 +14,7 @@ Aplicación encargada de contestar y gestionar los tickets de las empresas media
 - En la parte del servidor Pyhon y Flask han sido las herramientas para crear el backend.La base de datos se almacena y gestiona desde PostgreSQL gracias a su capacidad y soporte que ofrece.🌑
 - Además de utilizar la API de OpenIA para sincronizar los mensajes y la contestación en vivo de los correos.
 
-## [NonoStore](https://github.com/Antoniomorales17/NonoStore)
+## [NonoStore](https://github.com/Antoniomorales17/NonoStore) 👔
 ![Vestido de verano](https://i.imgur.com/M4JsW3G.jpg)
 ¡Bienvenido a nuestra Tienda de Ropa en línea! Aquí encontrarás una selección de moda para todas las edades y géneros. Aunque actualmente nuestra tienda es estática y no ofrece funcionalidades de compra en línea, estamos trabajando constantemente para mejorar la experiencia de nuestros clientes.
 [Ver demo](https://nonostore.vercel.app/)💻
@@ -23,14 +23,6 @@ Aplicación encargada de contestar y gestionar los tickets de las empresas media
 ![Captura de Pantalla 1](https://i.imgur.com/pACVRhe.png)
 
 Aplicación de cuestionario de videojuegos con un estilo retro, desarrollada en React. ¡Demuestra tus conocimientos sobre los videojuegos clásicos y diviértete!🎮
-
-## Características
-
-- Preguntas desafiantes sobre videojuegos retro.
-- Puedes seleccionar respuestas y obtener retroalimentación inmediata.
-- Puedes seguir tu puntuación y tu progreso.
-- Interfaz de usuario amigable y atractiva con un diseño retro.
-
 Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-indol-nine.vercel.app/) 👀
 
 ## Nuevo Portfolio 🍬
