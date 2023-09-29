@@ -1,6 +1,5 @@
 
-# Hola mundo! 🌎
-¡Hola! Soy Antonio Morales y me apasiona el desarrollo web. Me considero un programador capaz de hacer cosas increibles! 
+# Hola mundo! 🌎 
 ![me](https://i.imgur.com/xbWAid5.png)
 
 # Quien soy 🧐
