@@ -2,6 +2,8 @@
 # Hola mundo! 🌎 
 ![me](https://i.imgur.com/xbWAid5.png)
 
+![mw2](https://i.imgur.com/xF9PMMY.png)
+
 # Quien soy 🧐
 Me considero una persona que se atreve a nuevos desafios, aprender algo nuevo siempre es una satisfaccion. Atento a las nuevas tendencias tecnológicas, amante del marketing, comercio electrónico y el desarrollo web!🌈
 
