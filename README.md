@@ -1,7 +1,5 @@
 
 # Hola mundo! 🌎 
-![me](https://i.imgur.com/xbWAid5.png)
-
 ![mw2](https://i.imgur.com/7Qij3nY.png)
 
 # Quien soy 🧐
