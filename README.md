@@ -14,10 +14,9 @@ Aplicación encargada de contestar y gestionar los tickets de las empresas media
 - En la parte del servidor Pyhon y Flask han sido las herramientas para crear el backend.La base de datos se almacena y gestiona desde PostgreSQL gracias a su capacidad y soporte que ofrece.🌑
 - Además de utilizar la API de OpenIA para sincronizar los mensajes y la contestación en vivo de los correos.
 
-### Philosophy App
+## [Philosophy-App](https://github.com/Antoniomorales17/Philosophy-App) 🪐
 ![mw3](https://i.imgur.com/e956FaW.png)
 
-### Descripción General
 Bienvenido a la Aplicación de Filosofía, una aplicación de vanguardia diseñada para explorar el fascinante mundo de la filosofía. Esta aplicación está construida con React, con un enfoque principal en proporcionar una experiencia de usuario (UX) excepcional y asegurar una experiencia fluida en diferentes dispositivos mediante un sólido diseño responsive.
 [Ver demo](https://juanmogimenez.vercel.app/)💻
 
