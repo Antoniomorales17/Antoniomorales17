@@ -14,6 +14,13 @@ Aplicación encargada de contestar y gestionar los tickets de las empresas media
 - En la parte del servidor Pyhon y Flask han sido las herramientas para crear el backend.La base de datos se almacena y gestiona desde PostgreSQL gracias a su capacidad y soporte que ofrece.🌑
 - Además de utilizar la API de OpenIA para sincronizar los mensajes y la contestación en vivo de los correos.
 
+### Philosophy App
+![mw3](https://i.imgur.com/e956FaW.png)
+
+### Descripción General
+Bienvenido a la Aplicación de Filosofía, una aplicación de vanguardia diseñada para explorar el fascinante mundo de la filosofía. Esta aplicación está construida con React, con un enfoque principal en proporcionar una experiencia de usuario (UX) excepcional y asegurar una experiencia fluida en diferentes dispositivos mediante un sólido diseño responsive.
+[Ver demo](https://juanmogimenez.vercel.app/)💻
+
 ## [NonoStore](https://github.com/Antoniomorales17/NonoStore) 👔
 ![Vestido de verano](https://i.imgur.com/M4JsW3G.jpg)
 ¡Bienvenido a nuestra Tienda de Ropa en línea! Aquí encontrarás una selección de moda para todas las edades y géneros. Aunque actualmente nuestra tienda es estática y no ofrece funcionalidades de compra en línea, estamos trabajando constantemente para mejorar la experiencia de nuestros clientes.
@@ -24,17 +31,6 @@ Aplicación encargada de contestar y gestionar los tickets de las empresas media
 
 Aplicación de cuestionario de videojuegos con un estilo retro, desarrollada en React. ¡Demuestra tus conocimientos sobre los videojuegos clásicos y diviértete!🎮
 Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-indol-nine.vercel.app/) 👀
-
-## Nuevo Portfolio 🍬
-Pagina personal donde me podras conocer un poco más. En constante construcción y progreso!🌳
-
-[Portfolio](https://github.com/Antoniomorales17/PortfolioMe)🤗
-[Ver demo](https://antoniomoralesgimenez.vercel.app/)💻
-
-
-![Texto alternativo](https://i.imgur.com/xSf9PMo.png)
-
-
 
 ## Tecnologías 🌠
 
