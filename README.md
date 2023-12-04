@@ -29,7 +29,7 @@ Bienvenido a la Aplicación de Filosofía, una aplicación de vanguardia diseña
 ![Captura de Pantalla 1](https://i.imgur.com/h1JEKUK.png)
 
 Aplicación de cuestionario de videojuegos con un estilo retro, desarrollada en React. ¡Demuestra tus conocimientos sobre los videojuegos clásicos y diviértete!🎮
-Puedes ver una demostración de la aplicación en vivo [aquí](quizvideogames.vercel.app/) 👀
+Puedes ver una demostración de la aplicación en vivo [aquí](https://quizvideogames.vercel.app/) 👀
 
 ## Tecnologías 🌠
 
