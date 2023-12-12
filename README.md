@@ -5,6 +5,9 @@
 # Quien soy 🧐
 Me considero una persona que se atreve a nuevos desafios, aprender algo nuevo siempre es una satisfaccion. Atento a las nuevas tendencias tecnológicas, amante del marketing, comercio electrónico y el desarrollo web!🌈
 
+### Video Resumen
+Puedes ver mi video resumen [aquí](https://bit.ly/48bPFaH).👀
+
 ## Proyectos Destacados ⭐
 
 ## [WizzMail](https://github.com/Antoniomorales17/WizzMail) 🏆
