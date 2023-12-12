@@ -13,9 +13,7 @@ Puedes ver mi video resumen [aquí](https://bit.ly/48bPFaH).👀
 ## [WizzMail](https://github.com/Antoniomorales17/WizzMail) 🏆
 ![WizzMail Logo](https://i.imgur.com/JrCuHNS.png)
 Aplicación encargada de contestar y gestionar los tickets de las empresas mediante la inteligencia artificial.Gracias al ChatGPT nos permite automatizar los procesos y lograr una escalabilidad empresarial que supere a la competencia.
-- En el proyecto se ha utilizado en la parte del fronted el framework de React, lo que ha permitido la reutilización de componentes y estados centralizados de la aplicación.🌕
-- En la parte del servidor Pyhon y Flask han sido las herramientas para crear el backend.La base de datos se almacena y gestiona desde PostgreSQL gracias a su capacidad y soporte que ofrece.🌑
-- Además de utilizar la API de OpenIA para sincronizar los mensajes y la contestación en vivo de los correos.
+
 
 ## [Philosophy-App](https://github.com/Antoniomorales17/Philosophy-App) 🪐
 ![mw3](https://i.imgur.com/e956FaW.png)
