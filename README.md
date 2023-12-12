@@ -6,13 +6,14 @@
 Me considero una persona que se atreve a nuevos desafios, aprender algo nuevo siempre es una satisfaccion. Atento a las nuevas tendencias tecnológicas, amante del marketing, comercio electrónico y el desarrollo web!🌈
 
 ### Video Resumen
-Puedes ver mi video resumen [aquí](https://bit.ly/48bPFaH).👀
+Puedes ver mi video resumen [aquí](https://bit.ly/48bPFaH) 👀
 
 ## Proyectos Destacados ⭐
 
 ## [WizzMail](https://github.com/Antoniomorales17/WizzMail) 🏆
-![WizzMail Logo](https://i.imgur.com/JrCuHNS.png)
-Aplicación encargada de contestar y gestionar los tickets de las empresas mediante la inteligencia artificial.Gracias al ChatGPT nos permite automatizar los procesos y lograr una escalabilidad empresarial que supere a la competencia.
+![WizzMail Logo](https://i.imgur.com/RXfNFKa.png)
+Aplicación encargada de contestar y gestionar los tickets de las empresas mediante la inteligencia artificial.Gracias al ChatGPT nos permite automatizar los procesos y lograr una escalabilidad empresarial que supere a la competencia. 🤖
+[Ver demo](https://fronted-ticketing-app.vercel.app/)💻
 
 
 ## [Philosophy-App](https://github.com/Antoniomorales17/Philosophy-App) 🪐
