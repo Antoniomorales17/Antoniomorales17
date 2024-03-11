@@ -41,7 +41,6 @@ Puedes ver una demostración de la aplicación en vivo [aquí](https://quizvideo
 
 ## Contacto 📩
 Puedes contactarme en [antoniomora.gimenez@gmail.com](mailto:antoniomora.gimenez@gmail.com) o visitar mi perfil de [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/antonio-morales-gim%C3%A9nez-840034137/)
- y [![Git](https://img.icons8.com/color/48/000000/git.png)](https://github.com/AntonioMorales17).
 
  ## Estadísticas
 
