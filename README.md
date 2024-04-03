@@ -1,47 +1,46 @@
-# ¡Bienvenido a mi perfil! 🌎 
+# Hola mundo! 🌎 
 ![mw2](https://i.imgur.com/7Qij3nY.png)
 
-## Sobre mí 🧐
-Soy un apasionado del desarrollo web y las nuevas tecnologías. Me encanta enfrentarme a nuevos desafíos y aprender algo nuevo cada día.
+# Quien soy 🧐
+Me considero una persona que se atreve a nuevos desafios, aprender algo nuevo siempre es una satisfaccion. Atento a las nuevas tendencias tecnológicas, amante del marketing, comercio electrónico y el desarrollo web!🌈
 
 ### Video Resumen
-Puedes ver un resumen de mis proyectos en [este video](https://bit.ly/48bPFaH) 👀
+Puedes ver mi video resumen [aquí](https://bit.ly/48bPFaH) 👀
 
-## Últimos Proyectos ⭐
+## Proyectos Destacados ⭐
 
-### WizzMail 🤖
+## [WizzMail](https://github.com/Antoniomorales17/WizzMail) 🏆
 ![WizzMail Logo](https://i.imgur.com/RXfNFKa.png)
-Aplicación para la gestión de tickets empresariales con inteligencia artificial.
-[Ver demo](https://fronted-ticketing-app.vercel.app/)
+Aplicación encargada de contestar y gestionar los tickets de las empresas mediante la inteligencia artificial.Gracias al ChatGPT nos permite automatizar los procesos y lograr una escalabilidad empresarial que supere a la competencia. 🤖
+[Ver demo](https://fronted-ticketing-app.vercel.app/)💻
 
-### Philosophy-App 🪐
+
+## [Philosophy-App](https://github.com/Antoniomorales17/Philosophy-App) 🪐
 ![mw3](https://i.imgur.com/e956FaW.png)
-Una aplicación de filosofía diseñada para proporcionar una experiencia de usuario excepcional.
-[Ver demo](https://juanmogimenez.vercel.app/)
 
-### NonoStore 👔
+Bienvenido a la Aplicación de Filosofía, una aplicación de vanguardia diseñada para explorar el fascinante mundo de la filosofía. Esta aplicación está construida con React, con un enfoque principal en proporcionar una experiencia de usuario (UX) excepcional y asegurar una experiencia fluida en diferentes dispositivos mediante un sólido diseño responsive.
+[Ver demo](https://juanmogimenez.vercel.app/)💻
+
+## [NonoStore](https://github.com/Antoniomorales17/NonoStore) 👔
 ![Vestido de verano](https://i.imgur.com/M4JsW3G.jpg)
-Una tienda de ropa en línea con una amplia selección de moda.
-[Ver demo](https://nonostore.vercel.app/)
+¡Bienvenido a nuestra Tienda de Ropa en línea! Aquí encontrarás una selección de moda para todas las edades y géneros. Aunque actualmente nuestra tienda es estática y no ofrece funcionalidades de compra en línea, estamos trabajando constantemente para mejorar la experiencia de nuestros clientes.
+[Ver demo](https://nonostore.vercel.app/)💻
 
-### QuizzVideoGames 🎮
+## [QuizzVideoGames](https://github.com/Antoniomorales17/QuizGames) 🎮
 ![Captura de Pantalla 1](https://i.imgur.com/h1JEKUK.png)
-Cuestionario de videojuegos retro desarrollado en React.
-[Ver demo](https://quizvideogames.vercel.app/)
 
-## Tecnologías y Herramientas 🌠
+Aplicación de cuestionario de videojuegos con un estilo retro, desarrollada en React. ¡Demuestra tus conocimientos sobre los videojuegos clásicos y diviértete!🎮
+Puedes ver una demostración de la aplicación en vivo [aquí](https://quizvideogames.vercel.app/) 👀
 
-### Lenguajes de Programación
-![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+## Tecnologías 🌠
 
-### Frameworks y Librerías
-![React](https://img.icons8.com/color/48/000000/react-native.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![React](https://img.icons8.com/color/48/000000/react-native.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 
-### Herramientas de Desarrollo
-![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+## Herramientas 🔧
+![Git](https://img.icons8.com/color/48/000000/git.png)![GitHub](https://img.icons8.com/fluent/48/000000/github.png)![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png)![Figma](https://img.icons8.com/color/48/000000/figma.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
 
 ## Contacto 📩
-Puedes contactarme en [antoniomora.gimenez@gmail.com](mailto:antoniomora.gimenez@gmail.com) o visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/antonio-morales-gim%C3%A9nez-840034137/)
+Puedes contactarme en [antoniomora.gimenez@gmail.com](mailto:antoniomora.gimenez@gmail.com) o visitar mi perfil de [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/antonio-morales-gim%C3%A9nez-840034137/)
 
  ## Estadísticas
 
