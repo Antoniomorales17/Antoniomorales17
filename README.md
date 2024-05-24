@@ -35,7 +35,7 @@ Look the short! [aquí](https://bit.ly/48bPFaH) 👀
 
 
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Estadísticas del perfil](https://github-readme-stats.vercel.app/api?username=antoniomorales17&show_icons=true&theme=radical)
 
 
 
