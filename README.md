@@ -1,5 +1,5 @@
 # 👋 Hi there, I´m Antonio! 🌎 
-![mw2](https://i.imgur.com/yTFeTEM.png)
+![mw2](https://i.imgur.com/MdtOy2b.png)
 
 ## A passionate frontend and backend web developer
 
